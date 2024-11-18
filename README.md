@@ -13,12 +13,18 @@ Here I want to share some PC and mobile games testing portfolio items gained dur
 </a>
 
 
+##
+<a href="https://api.badgr.io/public/assertions/8Jytk0N8ThS1AMJQeQqd3Q?identity__email=lesyashir%40yandex.ru">
+    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/8Jytk0N8ThS1AMJQeQqd3Q/image">
+</a>
+
+
 ## Let's get in touch:
 [![](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/http://linkedin.com/in/olesia-shirokova-830669260) 
 [![](https://skillicons.dev/icons?i=gmail)](mailto:olesenkashir@gmail.com) 
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=OlesiaShir&theme=github_dark&hide_border=false)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=OlesiaShir&theme=github_dark&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=OlesiaShir&icon=7&color=12)](https://visitcount.itsvg.in)

@@ -13,18 +13,21 @@ Here I want to share some PC and mobile games testing portfolio items gained dur
 </a>
 
 
-##
+## Badges
+### Postman API Fundamentals Student Expert 
 <a href="https://api.badgr.io/public/assertions/8Jytk0N8ThS1AMJQeQqd3Q?identity__email=lesyashir%40yandex.ru">
-    <img width="120px" height="120px" src="https://api.badgr.io/public/assertions/8Jytk0N8ThS1AMJQeQqd3Q/image">
+    <img src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/course_series/3a5xz9m019od4/promo-image.1649784759.png" width="75" height="75"/>
 </a>
 
 
 ## Let's get in touch:
 [![](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/http://linkedin.com/in/olesia-shirokova-830669260) 
 [![](https://skillicons.dev/icons?i=gmail)](mailto:olesenkashir@gmail.com) 
-
+<a href="https://t.me/yunglesya">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" width="50" height="50"/>
+</a> 
 
 ## 📊 GitHub Stats:
-[![](https://github-readme-streak-stats.herokuapp.com/?user=OlesiaShir&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=OlesiaShir&theme=github_dark&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=OlesiaShir&icon=7&color=12)](https://visitcount.itsvg.in)

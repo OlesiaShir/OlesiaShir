@@ -4,7 +4,7 @@ Here I want to share some PC and mobile games testing portfolio items gained dur
 
 
 ## 💫 About Me:
-📋 Junior Game QA Engineer<br>📚 Finished [Manual testing](https://drive.google.com/file/d/1A9jSPYdMkzPw2jgaem2684ggMNX8Flfs/view?usp=sharing) and [Game QA](https://drive.google.com/file/d/1yjiqhXtUoCPfLXnqzSmLCsLGuOX8YIrH/view?usp=sharing) courses<br>🏁Conducted full functional and non-functional testing <br>of my favorite childhood racing game as [graduation project](https://docs.google.com/presentation/d/14rCYrjbUwnPlJNmacd1gg3uwWmrIe77aHKM_-UM1j5w/edit?usp=drive_link)<br>🙌 Currently looking for an internship opportunities<br>📄 Check out my CV<br>👾 I have gaming and beta-testing experience<br>📊 Background in Product Analytics and Category Management 
+📋 Junior Game QA Engineer<br>📚 Finished [Manual testing](https://drive.google.com/file/d/1A9jSPYdMkzPw2jgaem2684ggMNX8Flfs/view?usp=sharing) and [Game QA](https://drive.google.com/file/d/1yjiqhXtUoCPfLXnqzSmLCsLGuOX8YIrH/view?usp=sharing) courses<br>🏁Conducted full functional and non-functional testing <br>of my favorite childhood racing game as [graduation project](https://docs.google.com/presentation/d/14rCYrjbUwnPlJNmacd1gg3uwWmrIe77aHKM_-UM1j5w/edit?usp=drive_link)<br>📋Here is the [list of games](https://backloggery.com/lesyaolesya/library?page=1) I've played  <br>📄 Check out my CV<br>👾 I have gaming and beta-testing experience<br>📊 Background in Product Analytics and Category Management 
 
 
 ## Some Tools I Use
